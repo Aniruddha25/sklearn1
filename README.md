@@ -1,2 +1,2 @@
 # sklearn1
-supervised learning -Classification
+This repository is basically for data analytics and machine learning
