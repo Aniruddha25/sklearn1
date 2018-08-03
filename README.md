@@ -22,3 +22,7 @@ B]Principal component analysis-
 3.http://www.miketipping.com/papers/met-mppca.pdf
 
 4.https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/
+
+C]Feature Selection-
+
+1.https://machinelearningmastery.com/feature-selection-machine-learning-python/
