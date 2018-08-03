@@ -2,7 +2,9 @@
 This repository is basically for data analytics and machine learning
 
 
+
 *References-
+
 
 
 A]Statsmodels and statistics-
@@ -26,3 +28,10 @@ B]Principal component analysis-
 C]Feature Selection-
 
 1.https://machinelearningmastery.com/feature-selection-machine-learning-python/
+
+2.https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+
+3.http://scikitlearn.org/stable/modules/generated/sklearn.feature_selection.RFE.html
+
+4.http://scikitlearn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+
