@@ -35,3 +35,10 @@ C]Feature Selection-
 
 4.http://scikitlearn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
 
+D].Gradient Boosting-
+
+1.https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
+
+2.https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+
+
