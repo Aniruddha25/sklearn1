@@ -14,6 +14,8 @@ A]Statsmodels and statistics-
 
 3.http://mathworld.wolfram.com/LikelihoodFunction.html
 
+4.http://www.statsmodels.org/dev/examples/notebooks/generated/quantile_regression.html
+
 
 B]Principal component analysis-
 
