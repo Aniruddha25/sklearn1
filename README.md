@@ -46,4 +46,8 @@ D].Gradient Boosting-
 
 2.https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
 
+E]GPLEARN-
+
+1.https://gplearn.readthedocs.io/en/stable/intro.html#bloat
+
 
