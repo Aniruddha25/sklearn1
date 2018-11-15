@@ -50,7 +50,7 @@ def objective(params):
 space = {
     'max_depth': hp.quniform('max_depth', 6, 20, 1),
     'n_estimators': hp.quniform('n_estimators', 100, 200, 25),
-    'learning_rate': hp.quniform('learning_rate', 0.1, 0.5, 0.1),
+    'learning_rate': hp.quniform('learning_rate', 0.1, 1, 0.1),
     'alpha': hp.quniform('alpha', 0, 1, 0.1)
 }
 
